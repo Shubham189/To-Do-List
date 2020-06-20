@@ -17,7 +17,7 @@ class App extends Component {
 
   componentDidMount() {
     axios
-      .get(proxyurl+'https://jsonplaceholder.typicode.com/todos?_limit=10')
+      .get(proxyurl+'https://jsonplaceholder.typicode.com/todos?_limit=0')
       .then(res => this.setState({ todos: res.data }));
   }
 
