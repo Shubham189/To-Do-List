@@ -1,6 +1,7 @@
 # To-Do-List
 ## A well-organized place to list the tasks that you have to complete in the future. 
 This webpage contains various functionality like addition, deletion, striking out of task items. 
+
 The default page looks like this :-
 ![Default Page](/images/1.png)
 
